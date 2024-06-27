@@ -39,12 +39,27 @@ My research focuses on the heavy ion composition in the solar wind and coronal m
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.02 (now)*, Christian-Albrechts-Universität zu Kiel, work with [Prof. Dr. Robert F. Wimmer-Schweingruber](https://orcid.org/0000-0002-7388-173X)
+- *2018.09 - 2021.06*, China University of Geosciences (Beijing), Bachelor of Science in Geophysics, work with [Prof. Shuo Yao](https://orcid.org/0000-0003-4267-0486)
+- *2014.09 - 2018.06*, China University of Geosciences (Beijing), Master of Science in Geophysics
 
-# 💬 Invited Talks
+
+# 💬 Academic events
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎭 Non-academic skills
+**Theatre Directing and Acting**
+- *2023.07*, Frankfurt Theater Festival, **House guest**
+- *2023.06*, Kieler Woche, **House guest**
+- *2021.06*, Beijing Normal University, **Three Sisters**
+- *2021.05*, Beijing Normal University, **Die Physiker**
+- *2019.11*, Shenzhen University, **The Red Oleander**
+- *2019.10*, Beijing Penghao Theater, **The Red Oleander**
+
+
+
+
+
+
+
+
