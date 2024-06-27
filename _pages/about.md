@@ -28,7 +28,11 @@ My research focuses on the heavy ion composition in the solar wind and coronal m
 
 # 📝 Publications 
 - [Sliding-window cross-correlation and mutual information methods in the analysis of solar wind measurements](http://dx.doi.org/10.1051/0004-6361/202348703), 
-  Gu, Chaoran and Heidrich-Meisner, Verena and Wimmer-Schweingruber, Robert F., **Astronomy &amp; Astrophysics**
+  Gu, Chaoran and Heidrich-Meisner, Verena and Wimmer-Schweingruber, Robert F., **Astronomy &amp; Astrophysics, 2024**
+- [Detailed composition of iron ions in interplanetary coronal mass ejections based on a multipopulation approach](http://dx.doi.org/10.1051/0004-6361/202245500), 
+  Gu, Chaoran and Heidrich-Meisner, Verena and Wimmer-Schweingruber, Robert F., **Astronomy &amp; Astrophysics, 2023**
+- [Abundances and Charge States of Heavy Ions in ICMEs Highly Related to Speed and Solar Activity](http://dx.doi.org/10.3847/1538-4357/aba7b8), 
+  Gu, Chaoran and Yao, Shuo and Dai, Lei, **The Astrophysical Journal, 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
